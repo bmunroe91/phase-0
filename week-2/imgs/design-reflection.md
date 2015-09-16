@@ -1,10 +1,11 @@
 ## What are the 6 Phases of Web Design?
-Information gathering -Identify Purpose, Goals of site, Target Audience, and Content
-Planning - Develop site map keeping end user in mind
-Design - Create Wireframe, color scheme, font, layout, etc.
-Development - Actual coding in HTML/CSS according to designs
-Testing and Delivery - Make sure site is cross compatible with latest browsers, provide Search Engine Optimization
-Maintenence - Update and improve UX and services
+1. Information gathering -Identify Purpose, Goals of site, Target Audience, and Content
+2. Planning - Develop site map keeping end user in mind
+3. Design - Create Wireframe, color scheme, font, layout, etc.
+4. Development - Actual coding in HTML/CSS according to designs
+5. Testing and Delivery - Make sure site is cross compatible with latest browsers, provide Search Engine Optimization
+6. Maintenence - Update and improve UX and services
+
 ## What is your site's primary goal or purpose? What kind of content will your site feature?
 This will be my professional website for potential employers. I will have my resume, photo, and current projects, as well as links to my blog and social media networks.
 ## What is your target audience's interests and how do you see your site addressing them?
@@ -18,4 +19,4 @@ UX for short is how the user feels while using a system, not to be confused with
 ## Which parts of the challenge did you find tedious?
 I found the research to be tedious but necessary. I really just want to code now, but I felt the information helped.
 
-![Alt text](/Users/Bryan/DBC/phase-0/week-2/imgs/Site-Map.png "Site Map")
+![Alt text](phase-0/week-2/imgs/Site-Map.png "Site Map")
