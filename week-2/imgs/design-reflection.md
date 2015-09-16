@@ -18,4 +18,4 @@ UX for short is how the user feels while using a system, not to be confused with
 ## Which parts of the challenge did you find tedious?
 I found the research to be tedious but necessary. I really just want to code now, but I felt the information helped.
 
-![Alt text](/Users/Bryan/DBC/phase-0/week-2/imgs/Site-Map.png "Site Map")
+![Alt text](phase-0/week-2/imgs/Site-Map.png "Site Map")
