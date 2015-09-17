@@ -11,3 +11,6 @@ I was curious about what the "best" wireframing tool was out there, but I found 
 ## Which parts of the challenge did you enjoy and which parts did you find tedious?
 I found the searching for a wireframing tool was the most tedious. Most require payment or at least registration to access most functions. I enjoyed the actual wireframing however once I found a tool.
 
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg)
