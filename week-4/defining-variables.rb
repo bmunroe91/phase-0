@@ -1,7 +1,7 @@
 #Solution Below
-first_name=Bryan
-last_name=Munroe
-age=24
+first_name = 'Bryan'
+last_name = 'Munroe'
+age = 24
 
 
 
