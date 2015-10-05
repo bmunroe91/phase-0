@@ -1,7 +1,7 @@
 # Longest String
 
 # I worked on this challenge [by myself, with: ].
-
+# Joe Marion
 # longest_string is a method that takes an array of strings as its input
 # and returns the longest string
 #
@@ -12,15 +12,17 @@
 
 
 # Your Solution Below
+
 def longest_string(list_of_words)
-  longest = list_of_words[0]
-  if list_of_words.size <= 1
-    longest
-  elsif
-    list_of_words.each do |word|
-    if word.length > longest.length
-      longest = word
+  i = 0
+
+  while i < list_of_words.length
+    if i == 0
+      longest_word = list_of_words[0]
+    elsif list_of_words[i].length > longest_word.length
+      longest_word = list_of_words[i]
     end
+    i += 1
   end
-end
+  return longest_word
 end
