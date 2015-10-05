@@ -12,15 +12,16 @@
 
 #Your Solution Below
 def shortest_string(list_of_words)
-  shortest = list_of_words[0]
-  if list_of_words.size <= 1
-    shortest
-  elsif
-    list_of_words.each do |word|
-      if word.length < shortest.length
-        shortest = word
-      end
+  i = 0
+
+  while i < list_of_words.length
+    if i == 0
+      shortest_word = list_of_words[0]
+    elsif list_of_words[i].length < shortest_word.length
+      shortest_word = list_of_words[i]
     end
+    i += 1
   end
+  return shortest_word
 end
 
