@@ -14,11 +14,20 @@
 
 # Your Solution Below
 
+
 def count_between(list_of_integers, lower_bound, upper_bound)
   count = 0
-  for i in 0...list_of_integers.length
-    if list_of_integers[i] >= lower_bound && list_of_integers[i] <= upper_bound
-      count.push(list_of_integers[i])
+  i = 0
+
+  if list_of_integers.length < 0
+      return 0
+  else
+    while i < list_of_integers.length
+      if list_of_integers[i] >= lower_bound && list_of_integers[i] <= upper_bound
+        count += 1
+      end
+      i += 1
     end
   end
+  return count
 end
