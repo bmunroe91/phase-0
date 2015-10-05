@@ -11,3 +11,22 @@ Relative - Lays out element as if it was not positioned,and then adjusts its pos
 Margin is the space in between elements, Border is the border lines of the element, and padding is the space between the border and the element.
 # What was your impression of this challenge overall? (love, hate, and why?)
 I thought it was useful to incorporate the CSS elements and watch them live to see how they interact. My pair and I did hit a snag on the last challenge that we spent more time than necessary on a very simple solution, which I now understand why CSS is a love/hate relationship.
+
+
+![Alt Text](https://raw.githubusercontent.com/bmunroe91/phase-0/master/week-3/chrome-devtools/imgs/Challenge1.png)
+
+![Alt Text](https://raw.githubusercontent.com/bmunroe91/phase-0/master/week-3/chrome-devtools/imgs/Challenge2.png)
+
+![Alt Text](https://raw.githubusercontent.com/bmunroe91/phase-0/master/week-3/chrome-devtools/imgs/Challenge3.png)
+
+![Alt Text](https://raw.githubusercontent.com/bmunroe91/phase-0/master/week-3/chrome-devtools/imgs/Challenge4.png)
+
+![Alt Text](https://raw.githubusercontent.com/bmunroe91/phase-0/master/week-3/chrome-devtools/imgs/Challenge5.png)
+
+![Alt Text](https://raw.githubusercontent.com/bmunroe91/phase-0/master/week-3/chrome-devtools/imgs/Challenge6.png)
+
+![Alt Text](https://raw.githubusercontent.com/bmunroe91/phase-0/master/week-3/chrome-devtools/imgs/Challenge7.png)
+
+![Alt Text](https://raw.githubusercontent.com/bmunroe91/phase-0/master/week-3/chrome-devtools/imgs/Challenge8.png)
+
+![Alt Text](https://raw.githubusercontent.com/bmunroe91/phase-0/master/week-3/chrome-devtools/imgs/Challenge9.png)
